@@ -97,8 +97,4 @@ pytest
 
 ## Credits
 
-This Flask API service is based on the startup profits prediction model trained by [Your Name].
-
----
-
-Feel free to customize this README with additional details about your project, deployment process, or any other relevant information!
+This Flask API service is based on the startup profits prediction model trained by SAURIN.
